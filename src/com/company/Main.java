@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         //Task1
         Scanner scanner = new Scanner(System.in);
-       /* double Pi = 3.14;
+        double Pi = 3.14;
         System.out.print("Enter R:");
         double R = scanner.nextInt();
         System.out.println("Your R:"+ R);
@@ -20,7 +20,7 @@ public class Main {
         String name = scanner.nextLine();
         System.out.println("Where are you live,"+ name + "?");
         String address = scanner.nextLine();
-        System.out.println("You are Welcome,"+name+" from "+address);*/
+        System.out.println("You are Welcome,"+name+" from "+address);
         //Task3
         double c1 = 2.5,c2 = 4.2,c3 = 2;
 
